@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we're Copperhead</h1>
 <h3 align="center">A passionate group of developers, specializing in small open-source projects</h3>
 
-<p align="left"> <a href="https://twitter.com/copperhead-software" target="blank"><img src="https://img.shields.io/twitter/follow/copperhead-software?logo=twitter&style=for-the-badge" alt="copperhead-software" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CopperSoftware" target="blank"><img src="https://img.shields.io/twitter/follow/copperhead-software?logo=twitter&style=for-the-badge" alt="copperhead-software" /></a> </p>
 
 - 🔭 We're currently working on [CopperUI](https://github.com/Copperhead-Software/CopperUI)
 
